@@ -84,7 +84,7 @@ button:hover {
 }
 
 .correct {
-  background-color: green;
+  background-color: green !important;
 }
 
 .question-count{
